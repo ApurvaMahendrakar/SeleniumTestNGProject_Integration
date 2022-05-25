@@ -1,0 +1,21 @@
+Selenium is an open-source and a portable automated software testing tool for testing web applications. It has capabilities to operate across different browsers and operating systems. Selenium is not just a single tool but a set of tools that helps testers to automate web-based applications more efficiently.
+
+
+Selenium IDE
+
+Selenium Integrated Development Environment (IDE) is a Firefox plugin that lets testers to record their actions as they follow the workflow that they need to test.
+
+2	
+Selenium RC
+
+Selenium Remote Control (RC) was the flagship testing framework that allowed more than simple browser actions and linear execution. It makes use of the full power of programming languages such as Java, C#, PHP, Python, Ruby and PERL to create more complex tests.
+
+3	
+Selenium WebDriver
+
+Selenium WebDriver is the successor to Selenium RC which sends commands directly to the browser and retrieves results.
+
+4	
+Selenium Grid
+
+Selenium Grid is a tool used to run parallel tests across different machines and different browsers simultaneously which results in minimized execution time.
